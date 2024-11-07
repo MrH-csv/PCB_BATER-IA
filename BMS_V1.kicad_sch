@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "9c8db72d-3855-4a45-a1e7-8282a8beed50")
-	(paper "B")
+	(paper "A")
 	(title_block
 		(title "BATER-IA")
 		(date "2024-11-03")

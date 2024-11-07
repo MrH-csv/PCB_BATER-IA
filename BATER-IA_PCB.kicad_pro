@@ -622,11 +622,19 @@
     ],
     [
       "62f0af79-46a8-4082-a6f4-f0c42b1c3d1b",
-      "RELAY MODULE"
+      "RELAY MODULE 1"
     ],
     [
-      "b724efee-1202-4902-a699-1328138053f2",
-      "BMS"
+      "cc5d60ea-7d8f-4552-9be5-36fbeab9448a",
+      "RELAY MODULE 2"
+    ],
+    [
+      "e2ca8563-7f8f-4307-a405-22fd50d0a3a8",
+      "BUFFER LEVEL SHIFTER"
+    ],
+    [
+      "f29b0885-c387-41e6-bc46-344c35f9f2da",
+      "VOLTAGE REGULATION MODULE"
     ]
   ],
   "text_variables": {}
