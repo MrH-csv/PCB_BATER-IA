@@ -1,4 +1,4 @@
-24952047501187375
+24955509731006859
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2568,6 +2568,13 @@ speaker CUI
 0
 2
 2
+CHN_DCDC
+XL6019 MODULE
+
+
+0
+4
+1
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -97180,6 +97187,13 @@ igbt diode module
 0
 25
 25
+Universal_Modules
+INA226 Module
+
+
+0
+0
+0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

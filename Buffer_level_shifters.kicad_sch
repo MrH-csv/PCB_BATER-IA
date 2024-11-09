@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "835f6ade-62c0-4f6f-8ef5-1443cfe6603c")
-	(paper "A")
+	(paper "B")
 	(title_block
 		(title "BATER-IA")
 		(date "2024-11-03")
@@ -707,16 +707,16 @@
 		)
 	)
 	(no_connect
-		(at 157.48 124.46)
+		(at 254 162.56)
 		(uuid "3c9f431d-90f1-4169-ad8c-be09adfe9436")
 	)
 	(no_connect
-		(at 182.88 124.46)
+		(at 279.4 162.56)
 		(uuid "cb129d40-32f6-4b05-817c-f756afd0ac55")
 	)
 	(wire
 		(pts
-			(xy 66.04 93.98) (xy 68.58 93.98)
+			(xy 162.56 132.08) (xy 165.1 132.08)
 		)
 		(stroke
 			(width 0)
@@ -726,7 +726,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 91.44) (xy 93.98 91.44)
+			(xy 193.04 129.54) (xy 190.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -736,7 +736,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 132.08) (xy 157.48 132.08)
+			(xy 251.46 170.18) (xy 254 170.18)
 		)
 		(stroke
 			(width 0)
@@ -746,7 +746,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 104.14) (xy 93.98 104.14)
+			(xy 193.04 142.24) (xy 190.5 142.24)
 		)
 		(stroke
 			(width 0)
@@ -756,7 +756,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 40.64) (xy 182.88 40.64)
+			(xy 281.94 78.74) (xy 279.4 78.74)
 		)
 		(stroke
 			(width 0)
@@ -766,7 +766,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 167.64) (xy 93.98 167.64)
+			(xy 193.04 205.74) (xy 190.5 205.74)
 		)
 		(stroke
 			(width 0)
@@ -776,7 +776,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 50.8) (xy 182.88 50.8)
+			(xy 281.94 88.9) (xy 279.4 88.9)
 		)
 		(stroke
 			(width 0)
@@ -786,7 +786,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 101.6) (xy 93.98 101.6)
+			(xy 193.04 139.7) (xy 190.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -796,7 +796,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 175.26) (xy 68.58 175.26)
+			(xy 162.56 213.36) (xy 165.1 213.36)
 		)
 		(stroke
 			(width 0)
@@ -806,7 +806,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 182.88) (xy 68.58 182.88)
+			(xy 162.56 220.98) (xy 165.1 220.98)
 		)
 		(stroke
 			(width 0)
@@ -816,7 +816,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 30.48) (xy 170.18 27.94)
+			(xy 266.7 68.58) (xy 266.7 66.04)
 		)
 		(stroke
 			(width 0)
@@ -826,7 +826,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 106.68) (xy 68.58 106.68)
+			(xy 162.56 144.78) (xy 165.1 144.78)
 		)
 		(stroke
 			(width 0)
@@ -836,7 +836,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 48.26) (xy 93.98 48.26)
+			(xy 193.04 86.36) (xy 190.5 86.36)
 		)
 		(stroke
 			(width 0)
@@ -846,7 +846,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 109.22) (xy 68.58 109.22)
+			(xy 162.56 147.32) (xy 165.1 147.32)
 		)
 		(stroke
 			(width 0)
@@ -856,7 +856,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 116.84) (xy 68.58 116.84)
+			(xy 162.56 154.94) (xy 165.1 154.94)
 		)
 		(stroke
 			(width 0)
@@ -866,7 +866,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 55.88) (xy 182.88 55.88)
+			(xy 281.94 93.98) (xy 279.4 93.98)
 		)
 		(stroke
 			(width 0)
@@ -876,7 +876,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 170.18) (xy 68.58 170.18)
+			(xy 162.56 208.28) (xy 165.1 208.28)
 		)
 		(stroke
 			(width 0)
@@ -886,7 +886,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 91.44) (xy 68.58 91.44)
+			(xy 162.56 129.54) (xy 165.1 129.54)
 		)
 		(stroke
 			(width 0)
@@ -896,7 +896,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 43.18) (xy 157.48 43.18)
+			(xy 251.46 81.28) (xy 254 81.28)
 		)
 		(stroke
 			(width 0)
@@ -906,7 +906,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 180.34) (xy 68.58 180.34)
+			(xy 144.78 218.44) (xy 165.1 218.44)
 		)
 		(stroke
 			(width 0)
@@ -916,7 +916,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 104.14) (xy 68.58 104.14)
+			(xy 162.56 142.24) (xy 165.1 142.24)
 		)
 		(stroke
 			(width 0)
@@ -926,7 +926,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 172.72) (xy 68.58 172.72)
+			(xy 162.56 210.82) (xy 165.1 210.82)
 		)
 		(stroke
 			(width 0)
@@ -936,7 +936,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 160.02) (xy 93.98 160.02)
+			(xy 193.04 198.12) (xy 190.5 198.12)
 		)
 		(stroke
 			(width 0)
@@ -946,7 +946,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 170.18) (xy 93.98 170.18)
+			(xy 193.04 208.28) (xy 190.5 208.28)
 		)
 		(stroke
 			(width 0)
@@ -956,7 +956,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 55.88) (xy 68.58 55.88)
+			(xy 162.56 93.98) (xy 165.1 93.98)
 		)
 		(stroke
 			(width 0)
@@ -966,7 +966,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 157.48) (xy 93.98 157.48)
+			(xy 193.04 195.58) (xy 190.5 195.58)
 		)
 		(stroke
 			(width 0)
@@ -976,7 +976,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 48.26) (xy 182.88 48.26)
+			(xy 281.94 86.36) (xy 279.4 86.36)
 		)
 		(stroke
 			(width 0)
@@ -986,7 +986,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 111.76) (xy 157.48 111.76)
+			(xy 251.46 149.86) (xy 254 149.86)
 		)
 		(stroke
 			(width 0)
@@ -996,7 +996,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 48.26) (xy 68.58 48.26)
+			(xy 162.56 86.36) (xy 165.1 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1006,7 +1006,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 157.48) (xy 68.58 157.48)
+			(xy 162.56 195.58) (xy 165.1 195.58)
 		)
 		(stroke
 			(width 0)
@@ -1016,7 +1016,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 139.7) (xy 170.18 142.24)
+			(xy 266.7 177.8) (xy 266.7 180.34)
 		)
 		(stroke
 			(width 0)
@@ -1026,7 +1026,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 99.06) (xy 170.18 96.52)
+			(xy 266.7 137.16) (xy 266.7 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1036,7 +1036,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 172.72) (xy 93.98 172.72)
+			(xy 193.04 210.82) (xy 190.5 210.82)
 		)
 		(stroke
 			(width 0)
@@ -1046,7 +1046,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 63.5) (xy 157.48 63.5)
+			(xy 251.46 101.6) (xy 254 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1056,7 +1056,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 48.26) (xy 157.48 48.26)
+			(xy 251.46 86.36) (xy 254 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1066,7 +1066,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 43.18) (xy 182.88 43.18)
+			(xy 281.94 81.28) (xy 279.4 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1076,7 +1076,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 30.48) (xy 68.58 30.48)
+			(xy 162.56 68.58) (xy 165.1 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1086,7 +1086,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 38.1) (xy 157.48 38.1)
+			(xy 251.46 76.2) (xy 254 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1096,7 +1096,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 190.5) (xy 81.28 193.04)
+			(xy 177.8 228.6) (xy 177.8 231.14)
 		)
 		(stroke
 			(width 0)
@@ -1106,7 +1106,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 53.34) (xy 68.58 53.34)
+			(xy 149.86 91.44) (xy 165.1 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1116,7 +1116,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 33.02) (xy 93.98 33.02)
+			(xy 193.04 71.12) (xy 190.5 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1126,7 +1126,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 33.02) (xy 68.58 33.02)
+			(xy 162.56 71.12) (xy 165.1 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1136,7 +1136,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 38.1) (xy 93.98 38.1)
+			(xy 193.04 76.2) (xy 190.5 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1146,7 +1146,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 43.18) (xy 93.98 43.18)
+			(xy 193.04 81.28) (xy 190.5 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1156,7 +1156,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 124.46) (xy 81.28 127)
+			(xy 177.8 162.56) (xy 177.8 165.1)
 		)
 		(stroke
 			(width 0)
@@ -1166,7 +1166,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 147.32) (xy 81.28 149.86)
+			(xy 177.8 185.42) (xy 177.8 187.96)
 		)
 		(stroke
 			(width 0)
@@ -1176,7 +1176,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 40.64) (xy 157.48 40.64)
+			(xy 251.46 78.74) (xy 254 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1186,7 +1186,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 167.64) (xy 68.58 167.64)
+			(xy 162.56 205.74) (xy 165.1 205.74)
 		)
 		(stroke
 			(width 0)
@@ -1196,7 +1196,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 99.06) (xy 93.98 99.06)
+			(xy 193.04 137.16) (xy 190.5 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1206,7 +1206,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 60.96) (xy 157.48 60.96)
+			(xy 226.06 99.06) (xy 254 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1216,7 +1216,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 81.28) (xy 81.28 83.82)
+			(xy 177.8 119.38) (xy 177.8 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1226,7 +1226,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 106.68) (xy 93.98 106.68)
+			(xy 193.04 144.78) (xy 190.5 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1236,7 +1236,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 35.56) (xy 68.58 35.56)
+			(xy 162.56 73.66) (xy 165.1 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1246,7 +1246,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 109.22) (xy 157.48 109.22)
+			(xy 251.46 147.32) (xy 254 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1256,7 +1256,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 96.52) (xy 68.58 96.52)
+			(xy 162.56 134.62) (xy 165.1 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1266,7 +1266,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 45.72) (xy 182.88 45.72)
+			(xy 281.94 83.82) (xy 279.4 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1276,7 +1276,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 121.92) (xy 157.48 121.92)
+			(xy 251.46 160.02) (xy 254 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1286,7 +1286,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 101.6) (xy 68.58 101.6)
+			(xy 162.56 139.7) (xy 165.1 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1296,7 +1296,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 22.86) (xy 81.28 20.32)
+			(xy 177.8 60.96) (xy 177.8 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1306,7 +1306,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 40.64) (xy 93.98 40.64)
+			(xy 193.04 78.74) (xy 190.5 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1316,7 +1316,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 165.1) (xy 68.58 165.1)
+			(xy 162.56 203.2) (xy 165.1 203.2)
 		)
 		(stroke
 			(width 0)
@@ -1326,7 +1326,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 63.5) (xy 81.28 66.04)
+			(xy 177.8 101.6) (xy 177.8 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1336,7 +1336,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 30.48) (xy 93.98 30.48)
+			(xy 193.04 68.58) (xy 190.5 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1346,7 +1346,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 55.88) (xy 157.48 55.88)
+			(xy 251.46 93.98) (xy 254 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1356,7 +1356,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 53.34) (xy 157.48 53.34)
+			(xy 251.46 91.44) (xy 254 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1366,7 +1366,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 116.84) (xy 157.48 116.84)
+			(xy 251.46 154.94) (xy 254 154.94)
 		)
 		(stroke
 			(width 0)
@@ -1376,7 +1376,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 45.72) (xy 93.98 45.72)
+			(xy 193.04 83.82) (xy 190.5 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1386,7 +1386,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 53.34) (xy 182.88 53.34)
+			(xy 281.94 91.44) (xy 279.4 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1396,7 +1396,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 162.56) (xy 93.98 162.56)
+			(xy 193.04 200.66) (xy 190.5 200.66)
 		)
 		(stroke
 			(width 0)
@@ -1406,7 +1406,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 45.72) (xy 68.58 45.72)
+			(xy 162.56 83.82) (xy 165.1 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1416,7 +1416,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 114.3) (xy 157.48 114.3)
+			(xy 251.46 152.4) (xy 254 152.4)
 		)
 		(stroke
 			(width 0)
@@ -1426,7 +1426,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 45.72) (xy 157.48 45.72)
+			(xy 251.46 83.82) (xy 254 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1436,7 +1436,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 99.06) (xy 68.58 99.06)
+			(xy 162.56 137.16) (xy 165.1 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1446,7 +1446,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 50.8) (xy 157.48 50.8)
+			(xy 251.46 88.9) (xy 254 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1456,7 +1456,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 38.1) (xy 68.58 38.1)
+			(xy 162.56 76.2) (xy 165.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1466,7 +1466,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 160.02) (xy 68.58 160.02)
+			(xy 162.56 198.12) (xy 165.1 198.12)
 		)
 		(stroke
 			(width 0)
@@ -1476,7 +1476,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 129.54) (xy 157.48 129.54)
+			(xy 231.14 167.64) (xy 254 167.64)
 		)
 		(stroke
 			(width 0)
@@ -1486,7 +1486,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 109.22) (xy 93.98 109.22)
+			(xy 193.04 147.32) (xy 190.5 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1496,7 +1496,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 119.38) (xy 157.48 119.38)
+			(xy 251.46 157.48) (xy 254 157.48)
 		)
 		(stroke
 			(width 0)
@@ -1506,7 +1506,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 114.3) (xy 68.58 114.3)
+			(xy 144.78 152.4) (xy 165.1 152.4)
 		)
 		(stroke
 			(width 0)
@@ -1516,7 +1516,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 106.68) (xy 157.48 106.68)
+			(xy 251.46 144.78) (xy 254 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1526,7 +1526,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 93.98) (xy 93.98 93.98)
+			(xy 193.04 132.08) (xy 190.5 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1536,7 +1536,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 96.52) (xy 93.98 96.52)
+			(xy 193.04 134.62) (xy 190.5 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1546,7 +1546,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 71.12) (xy 170.18 73.66)
+			(xy 266.7 109.22) (xy 266.7 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1556,7 +1556,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 38.1) (xy 182.88 38.1)
+			(xy 281.94 76.2) (xy 279.4 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1566,7 +1566,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 162.56) (xy 68.58 162.56)
+			(xy 162.56 200.66) (xy 165.1 200.66)
 		)
 		(stroke
 			(width 0)
@@ -1576,7 +1576,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 40.64) (xy 68.58 40.64)
+			(xy 162.56 78.74) (xy 165.1 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1586,7 +1586,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 35.56) (xy 93.98 35.56)
+			(xy 193.04 73.66) (xy 190.5 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1596,7 +1596,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 165.1) (xy 93.98 165.1)
+			(xy 193.04 203.2) (xy 190.5 203.2)
 		)
 		(stroke
 			(width 0)
@@ -1606,7 +1606,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 175.26) (xy 93.98 175.26)
+			(xy 193.04 213.36) (xy 190.5 213.36)
 		)
 		(stroke
 			(width 0)
@@ -1616,7 +1616,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 43.18) (xy 68.58 43.18)
+			(xy 162.56 81.28) (xy 165.1 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1626,7 +1626,7 @@
 	)
 	(hierarchical_label "PWM3_5V"
 		(shape input)
-		(at 96.52 96.52 0)
+		(at 193.04 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1638,7 +1638,7 @@
 	)
 	(hierarchical_label "GPIO_D52"
 		(shape input)
-		(at 154.94 63.5 180)
+		(at 251.46 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1650,7 +1650,7 @@
 	)
 	(hierarchical_label "GPIO_D41_5V"
 		(shape input)
-		(at 185.42 55.88 0)
+		(at 281.94 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1662,7 +1662,7 @@
 	)
 	(hierarchical_label "PWM2_5V"
 		(shape input)
-		(at 96.52 99.06 0)
+		(at 193.04 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1674,7 +1674,7 @@
 	)
 	(hierarchical_label "PWM9"
 		(shape input)
-		(at 66.04 40.64 180)
+		(at 162.56 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1686,7 +1686,7 @@
 	)
 	(hierarchical_label "GPIO_D29"
 		(shape input)
-		(at 66.04 165.1 180)
+		(at 162.56 203.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1698,7 +1698,7 @@
 	)
 	(hierarchical_label "PWM6"
 		(shape input)
-		(at 66.04 48.26 180)
+		(at 162.56 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1710,7 +1710,7 @@
 	)
 	(hierarchical_label "GPIO_D31_5V"
 		(shape input)
-		(at 96.52 170.18 0)
+		(at 193.04 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1722,7 +1722,7 @@
 	)
 	(hierarchical_label "GPIO_D23"
 		(shape input)
-		(at 66.04 104.14 180)
+		(at 162.56 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1734,7 +1734,7 @@
 	)
 	(hierarchical_label "GPIO_D25"
 		(shape input)
-		(at 66.04 109.22 180)
+		(at 162.56 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1746,7 +1746,7 @@
 	)
 	(hierarchical_label "GPIO_D35"
 		(shape input)
-		(at 154.94 40.64 180)
+		(at 251.46 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1758,7 +1758,7 @@
 	)
 	(hierarchical_label "GPIO_D45"
 		(shape input)
-		(at 154.94 114.3 180)
+		(at 251.46 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1770,7 +1770,7 @@
 	)
 	(hierarchical_label "PWM7_5V"
 		(shape input)
-		(at 96.52 45.72 0)
+		(at 193.04 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1782,7 +1782,7 @@
 	)
 	(hierarchical_label "PWM8"
 		(shape input)
-		(at 66.04 43.18 180)
+		(at 162.56 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1794,7 +1794,7 @@
 	)
 	(hierarchical_label "PWM4"
 		(shape input)
-		(at 66.04 93.98 180)
+		(at 162.56 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1806,7 +1806,7 @@
 	)
 	(hierarchical_label "GPIO_D48_5V"
 		(shape input)
-		(at 182.88 121.92 0)
+		(at 279.4 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1818,7 +1818,7 @@
 	)
 	(hierarchical_label "GPIO_D50"
 		(shape input)
-		(at 66.04 116.84 180)
+		(at 162.56 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1830,7 +1830,7 @@
 	)
 	(hierarchical_label "GPIO_D38_5V"
 		(shape input)
-		(at 185.42 48.26 0)
+		(at 281.94 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1842,7 +1842,7 @@
 	)
 	(hierarchical_label "PWM13_5V"
 		(shape input)
-		(at 96.52 30.48 0)
+		(at 193.04 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1854,7 +1854,7 @@
 	)
 	(hierarchical_label "GPIO_D30"
 		(shape input)
-		(at 66.04 167.64 180)
+		(at 162.56 205.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1866,7 +1866,7 @@
 	)
 	(hierarchical_label "PWM10_5V"
 		(shape input)
-		(at 96.52 38.1 0)
+		(at 193.04 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1878,7 +1878,7 @@
 	)
 	(hierarchical_label "GPIO_D47"
 		(shape input)
-		(at 154.94 119.38 180)
+		(at 251.46 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1890,7 +1890,7 @@
 	)
 	(hierarchical_label "PWM5"
 		(shape input)
-		(at 66.04 91.44 180)
+		(at 162.56 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1902,7 +1902,7 @@
 	)
 	(hierarchical_label "GPIO_D33_5V"
 		(shape input)
-		(at 96.52 175.26 0)
+		(at 193.04 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1914,7 +1914,7 @@
 	)
 	(hierarchical_label "GPIO_D39"
 		(shape input)
-		(at 154.94 50.8 180)
+		(at 251.46 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1926,7 +1926,7 @@
 	)
 	(hierarchical_label "GPIO_D37_5V"
 		(shape input)
-		(at 185.42 45.72 0)
+		(at 281.94 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1938,7 +1938,7 @@
 	)
 	(hierarchical_label "GPIO_D34_5V"
 		(shape input)
-		(at 185.42 38.1 0)
+		(at 281.94 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1950,7 +1950,7 @@
 	)
 	(hierarchical_label "GPIO_D27_5V"
 		(shape input)
-		(at 96.52 160.02 0)
+		(at 193.04 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1962,7 +1962,7 @@
 	)
 	(hierarchical_label "PWM2"
 		(shape input)
-		(at 66.04 99.06 180)
+		(at 162.56 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1974,7 +1974,7 @@
 	)
 	(hierarchical_label "GPIO_D32_5V"
 		(shape input)
-		(at 96.52 172.72 0)
+		(at 193.04 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1986,7 +1986,7 @@
 	)
 	(hierarchical_label "GPIO_D44_5V"
 		(shape input)
-		(at 182.88 111.76 0)
+		(at 279.4 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1998,7 +1998,7 @@
 	)
 	(hierarchical_label "PWM11_5V"
 		(shape input)
-		(at 96.52 35.56 0)
+		(at 193.04 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2010,7 +2010,7 @@
 	)
 	(hierarchical_label "GPIO_D28"
 		(shape input)
-		(at 66.04 162.56 180)
+		(at 162.56 200.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2022,7 +2022,7 @@
 	)
 	(hierarchical_label "GPIO_D32"
 		(shape input)
-		(at 66.04 172.72 180)
+		(at 162.56 210.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2034,7 +2034,7 @@
 	)
 	(hierarchical_label "GPIO_D43_5V"
 		(shape input)
-		(at 182.88 109.22 0)
+		(at 279.4 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2046,7 +2046,7 @@
 	)
 	(hierarchical_label "GPIO_D26_5V"
 		(shape input)
-		(at 96.52 157.48 0)
+		(at 193.04 195.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2058,7 +2058,7 @@
 	)
 	(hierarchical_label "PWM12"
 		(shape input)
-		(at 66.04 33.02 180)
+		(at 162.56 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2070,7 +2070,7 @@
 	)
 	(hierarchical_label "GPIO_D42"
 		(shape input)
-		(at 154.94 106.68 180)
+		(at 251.46 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2082,7 +2082,7 @@
 	)
 	(hierarchical_label "PWM7"
 		(shape input)
-		(at 66.04 45.72 180)
+		(at 162.56 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2094,7 +2094,7 @@
 	)
 	(hierarchical_label "GPIO_D42_5V"
 		(shape input)
-		(at 182.88 106.68 0)
+		(at 279.4 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2106,7 +2106,7 @@
 	)
 	(hierarchical_label "GPIO_D39_5V"
 		(shape input)
-		(at 185.42 50.8 0)
+		(at 281.94 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2118,7 +2118,7 @@
 	)
 	(hierarchical_label "GPIO_D46"
 		(shape input)
-		(at 154.94 116.84 180)
+		(at 251.46 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2130,7 +2130,7 @@
 	)
 	(hierarchical_label "GPIO_D48"
 		(shape input)
-		(at 154.94 121.92 180)
+		(at 251.46 160.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2142,7 +2142,7 @@
 	)
 	(hierarchical_label "PWM4_5V"
 		(shape input)
-		(at 96.52 93.98 0)
+		(at 193.04 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2154,7 +2154,7 @@
 	)
 	(hierarchical_label "PWM3"
 		(shape input)
-		(at 66.04 96.52 180)
+		(at 162.56 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2166,7 +2166,7 @@
 	)
 	(hierarchical_label "GPIO_D27"
 		(shape input)
-		(at 66.04 160.02 180)
+		(at 162.56 198.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2178,7 +2178,7 @@
 	)
 	(hierarchical_label "GPIO_D26"
 		(shape input)
-		(at 66.04 157.48 180)
+		(at 162.56 195.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2190,7 +2190,7 @@
 	)
 	(hierarchical_label "GPIO_D28_5V"
 		(shape input)
-		(at 96.52 162.56 0)
+		(at 193.04 200.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2202,7 +2202,7 @@
 	)
 	(hierarchical_label "GPIO_D53"
 		(shape input)
-		(at 154.94 132.08 180)
+		(at 251.46 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2214,7 +2214,7 @@
 	)
 	(hierarchical_label "GPIO_D24_5V"
 		(shape input)
-		(at 96.52 106.68 0)
+		(at 193.04 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2226,7 +2226,7 @@
 	)
 	(hierarchical_label "GPIO_D45_5V"
 		(shape input)
-		(at 182.88 114.3 0)
+		(at 279.4 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2238,7 +2238,7 @@
 	)
 	(hierarchical_label "GPIO_D22_5V"
 		(shape input)
-		(at 96.52 101.6 0)
+		(at 193.04 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2250,7 +2250,7 @@
 	)
 	(hierarchical_label "GPIO_D40"
 		(shape input)
-		(at 154.94 53.34 180)
+		(at 251.46 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2262,7 +2262,7 @@
 	)
 	(hierarchical_label "GPIO_D47_5V"
 		(shape input)
-		(at 182.88 119.38 0)
+		(at 279.4 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2274,7 +2274,7 @@
 	)
 	(hierarchical_label "GPIO_D51"
 		(shape input)
-		(at 66.04 182.88 180)
+		(at 162.56 220.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2286,7 +2286,7 @@
 	)
 	(hierarchical_label "GPIO_D49"
 		(shape input)
-		(at 66.04 55.88 180)
+		(at 162.56 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2298,7 +2298,7 @@
 	)
 	(hierarchical_label "GPIO_D25_5V"
 		(shape input)
-		(at 96.52 109.22 0)
+		(at 193.04 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2310,7 +2310,7 @@
 	)
 	(hierarchical_label "GPIO_D46_5V"
 		(shape input)
-		(at 182.88 116.84 0)
+		(at 279.4 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2322,7 +2322,7 @@
 	)
 	(hierarchical_label "GPIO_D44"
 		(shape input)
-		(at 154.94 111.76 180)
+		(at 251.46 149.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2334,7 +2334,7 @@
 	)
 	(hierarchical_label "GPIO_D29_5V"
 		(shape input)
-		(at 96.52 165.1 0)
+		(at 193.04 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2346,7 +2346,7 @@
 	)
 	(hierarchical_label "PWM5_5V"
 		(shape input)
-		(at 96.52 91.44 0)
+		(at 193.04 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2358,7 +2358,7 @@
 	)
 	(hierarchical_label "PWM8_5V"
 		(shape input)
-		(at 96.52 43.18 0)
+		(at 193.04 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2370,7 +2370,7 @@
 	)
 	(hierarchical_label "GPIO_D23_5V"
 		(shape input)
-		(at 96.52 104.14 0)
+		(at 193.04 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2382,7 +2382,7 @@
 	)
 	(hierarchical_label "PWM11"
 		(shape input)
-		(at 66.04 35.56 180)
+		(at 162.56 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2394,7 +2394,7 @@
 	)
 	(hierarchical_label "GPIO_D43"
 		(shape input)
-		(at 154.94 109.22 180)
+		(at 251.46 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2406,7 +2406,7 @@
 	)
 	(hierarchical_label "GPIO_D24"
 		(shape input)
-		(at 66.04 106.68 180)
+		(at 162.56 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2418,7 +2418,7 @@
 	)
 	(hierarchical_label "GPIO_D40_5V"
 		(shape input)
-		(at 185.42 53.34 0)
+		(at 281.94 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2430,7 +2430,7 @@
 	)
 	(hierarchical_label "PWM9_5V"
 		(shape input)
-		(at 96.52 40.64 0)
+		(at 193.04 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2442,7 +2442,7 @@
 	)
 	(hierarchical_label "PWM6_5V"
 		(shape input)
-		(at 96.52 48.26 0)
+		(at 193.04 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2454,7 +2454,7 @@
 	)
 	(hierarchical_label "GPIO_D33"
 		(shape input)
-		(at 66.04 175.26 180)
+		(at 162.56 213.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2466,7 +2466,7 @@
 	)
 	(hierarchical_label "PWM13"
 		(shape input)
-		(at 66.04 30.48 180)
+		(at 162.56 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2478,7 +2478,7 @@
 	)
 	(hierarchical_label "GPIO_D31"
 		(shape input)
-		(at 66.04 170.18 180)
+		(at 162.56 208.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2490,7 +2490,7 @@
 	)
 	(hierarchical_label "GPIO_D37"
 		(shape input)
-		(at 154.94 45.72 180)
+		(at 251.46 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2502,7 +2502,7 @@
 	)
 	(hierarchical_label "GPIO_D38"
 		(shape input)
-		(at 154.94 48.26 180)
+		(at 251.46 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2514,7 +2514,7 @@
 	)
 	(hierarchical_label "GPIO_D22"
 		(shape input)
-		(at 66.04 101.6 180)
+		(at 162.56 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2526,7 +2526,7 @@
 	)
 	(hierarchical_label "GPIO_D30_5V"
 		(shape input)
-		(at 96.52 167.64 0)
+		(at 193.04 205.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2538,7 +2538,7 @@
 	)
 	(hierarchical_label "PWM12_5V"
 		(shape input)
-		(at 96.52 33.02 0)
+		(at 193.04 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2550,7 +2550,7 @@
 	)
 	(hierarchical_label "GPIO_D36_5V"
 		(shape input)
-		(at 185.42 43.18 0)
+		(at 281.94 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2562,7 +2562,7 @@
 	)
 	(hierarchical_label "PWM10"
 		(shape input)
-		(at 66.04 38.1 180)
+		(at 162.56 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2574,7 +2574,7 @@
 	)
 	(hierarchical_label "GPIO_D34"
 		(shape input)
-		(at 154.94 38.1 180)
+		(at 251.46 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2586,7 +2586,7 @@
 	)
 	(hierarchical_label "GPIO_D35_5V"
 		(shape input)
-		(at 185.42 40.64 0)
+		(at 281.94 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2598,7 +2598,7 @@
 	)
 	(hierarchical_label "GPIO_D36"
 		(shape input)
-		(at 154.94 43.18 180)
+		(at 251.46 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2610,7 +2610,7 @@
 	)
 	(hierarchical_label "GPIO_D41"
 		(shape input)
-		(at 154.94 55.88 180)
+		(at 251.46 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2622,7 +2622,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS245")
-		(at 81.28 104.14 0)
+		(at 177.8 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2631,7 +2631,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b4c4d32-3a91-4d6d-9917-27262c2e8b7c")
 		(property "Reference" "U2"
-			(at 83.4741 83.82 0)
+			(at 179.9941 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2640,7 +2640,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 83.4741 86.36 0)
+			(at 179.9941 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2649,7 +2649,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
-			(at 81.28 104.14 0)
+			(at 177.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2658,7 +2658,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS245"
-			(at 81.28 104.14 0)
+			(at 177.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2667,7 +2667,7 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
-			(at 81.28 104.14 0)
+			(at 177.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +2746,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 81.28 81.28 0)
+		(at 177.8 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2754,8 +2754,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d9416e8-2301-4f8c-9723-407db618be38")
-		(property "Reference" "#PWR026"
-			(at 81.28 85.09 0)
+		(property "Reference" "#PWR062"
+			(at 177.8 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2764,7 +2764,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 81.28 76.46 0)
+			(at 177.8 114.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2772,7 +2772,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 81.28 0)
+			(at 177.8 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2781,7 +2781,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 81.28 0)
+			(at 177.8 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,7 +2790,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 81.28 81.28 0)
+			(at 177.8 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2804,7 +2804,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR026")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -2812,7 +2812,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 48.26 180.34 0)
+		(at 144.78 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2820,8 +2820,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d200faa-bf72-450a-afcc-b24aaa5e82aa")
-		(property "Reference" "#PWR01"
-			(at 48.26 184.15 0)
+		(property "Reference" "#PWR058"
+			(at 144.78 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2830,7 +2830,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 48.26 175.52 0)
+			(at 144.78 213.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2838,7 +2838,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 180.34 0)
+			(at 144.78 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2847,7 +2847,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 180.34 0)
+			(at 144.78 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2856,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 48.26 180.34 0)
+			(at 144.78 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +2870,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR01")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -2878,7 +2878,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 170.18 96.52 0)
+		(at 266.7 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2886,8 +2886,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36469510-c178-4059-9d8c-3ee3f91bffcb")
-		(property "Reference" "#PWR032"
-			(at 170.18 100.33 0)
+		(property "Reference" "#PWR070"
+			(at 266.7 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2896,7 +2896,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 170.18 91.7 0)
+			(at 266.7 129.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2904,7 +2904,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 96.52 0)
+			(at 266.7 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2913,7 +2913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 96.52 0)
+			(at 266.7 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2922,7 +2922,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 170.18 96.52 0)
+			(at 266.7 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +2936,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR032")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -2944,7 +2944,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 127 0)
+		(at 177.8 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2952,8 +2952,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49668764-66e2-43c0-8d50-26220beadd7a")
-		(property "Reference" "#PWR027"
-			(at 81.28 133.35 0)
+		(property "Reference" "#PWR063"
+			(at 177.8 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,7 +2962,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 132.41 0)
+			(at 177.8 170.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2970,7 +2970,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 127 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2979,7 +2979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 127 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +2988,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 127 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3002,7 +3002,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR027")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3010,7 +3010,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS245")
-		(at 81.28 170.18 0)
+		(at 177.8 208.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3019,7 +3019,7 @@
 		(fields_autoplaced yes)
 		(uuid "4dd38895-7619-4c76-8fd7-18e1018f5b2e")
 		(property "Reference" "U3"
-			(at 83.4741 149.86 0)
+			(at 179.9941 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3028,7 +3028,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 83.4741 152.4 0)
+			(at 179.9941 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3037,7 +3037,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
-			(at 81.28 170.18 0)
+			(at 177.8 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3046,7 +3046,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS245"
-			(at 81.28 170.18 0)
+			(at 177.8 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +3055,7 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
-			(at 81.28 170.18 0)
+			(at 177.8 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3134,7 +3134,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 193.04 0)
+		(at 177.8 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3142,8 +3142,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6069744b-ad3e-415c-9935-ce4b955ab337")
-		(property "Reference" "#PWR017"
-			(at 81.28 199.39 0)
+		(property "Reference" "#PWR065"
+			(at 177.8 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3152,7 +3152,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 198.45 0)
+			(at 177.8 236.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3160,7 +3160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 193.04 0)
+			(at 177.8 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3169,7 +3169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 193.04 0)
+			(at 177.8 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3178,7 +3178,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 193.04 0)
+			(at 177.8 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3192,7 +3192,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR017")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -3200,7 +3200,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS245")
-		(at 81.28 43.18 0)
+		(at 177.8 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3209,7 +3209,7 @@
 		(fields_autoplaced yes)
 		(uuid "622195dc-277d-4bf1-977c-071f0721813b")
 		(property "Reference" "U1"
-			(at 83.4741 22.86 0)
+			(at 179.9941 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3218,7 +3218,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 83.4741 25.4 0)
+			(at 179.9941 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3227,7 +3227,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
-			(at 81.28 43.18 0)
+			(at 177.8 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +3236,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS245"
-			(at 81.28 43.18 0)
+			(at 177.8 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3245,7 +3245,7 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
-			(at 81.28 43.18 0)
+			(at 177.8 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3324,7 +3324,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 134.62 129.54 0)
+		(at 231.14 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3332,8 +3332,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f80b728-49ce-4ca6-ac64-ae3880d1bd77")
-		(property "Reference" "#PWR029"
-			(at 134.62 133.35 0)
+		(property "Reference" "#PWR067"
+			(at 231.14 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3342,7 +3342,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 134.62 124.72 0)
+			(at 231.14 162.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3350,7 +3350,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 129.54 0)
+			(at 231.14 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3359,7 +3359,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 129.54 0)
+			(at 231.14 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3368,7 +3368,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 134.62 129.54 0)
+			(at 231.14 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3382,7 +3382,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR029")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -3390,7 +3390,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 129.54 60.96 0)
+		(at 226.06 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3398,8 +3398,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70b4c605-7302-43b3-ae0b-c1e528158a52")
-		(property "Reference" "#PWR028"
-			(at 129.54 64.77 0)
+		(property "Reference" "#PWR066"
+			(at 226.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3408,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 129.54 56.14 0)
+			(at 226.06 94.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3416,7 +3416,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 60.96 0)
+			(at 226.06 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3425,7 +3425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 60.96 0)
+			(at 226.06 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3434,7 +3434,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 129.54 60.96 0)
+			(at 226.06 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3448,7 +3448,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR028")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -3456,7 +3456,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS245")
-		(at 170.18 119.38 0)
+		(at 266.7 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3465,7 +3465,7 @@
 		(fields_autoplaced yes)
 		(uuid "904da394-7c9d-49ca-8565-10af4c3dd6cd")
 		(property "Reference" "U5"
-			(at 172.3741 99.06 0)
+			(at 268.8941 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3474,7 +3474,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 172.3741 101.6 0)
+			(at 268.8941 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3483,7 +3483,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
-			(at 170.18 119.38 0)
+			(at 266.7 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3492,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS245"
-			(at 170.18 119.38 0)
+			(at 266.7 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3501,7 +3501,7 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
-			(at 170.18 119.38 0)
+			(at 266.7 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3580,7 +3580,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS245")
-		(at 170.18 50.8 0)
+		(at 266.7 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3589,7 +3589,7 @@
 		(fields_autoplaced yes)
 		(uuid "97d66444-d6dc-4600-ba72-36581f4aa301")
 		(property "Reference" "U4"
-			(at 172.3741 30.48 0)
+			(at 268.8941 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3598,7 +3598,7 @@
 			)
 		)
 		(property "Value" "74LS245"
-			(at 172.3741 33.02 0)
+			(at 268.8941 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3607,7 +3607,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
-			(at 170.18 50.8 0)
+			(at 266.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3616,7 +3616,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS245"
-			(at 170.18 50.8 0)
+			(at 266.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3625,7 +3625,7 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
-			(at 170.18 50.8 0)
+			(at 266.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3704,7 +3704,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 170.18 27.94 0)
+		(at 266.7 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3712,8 +3712,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b5da4cf-33b9-40bb-83c2-9022790c1487")
-		(property "Reference" "#PWR030"
-			(at 170.18 31.75 0)
+		(property "Reference" "#PWR068"
+			(at 266.7 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3722,7 +3722,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 170.18 23.12 0)
+			(at 266.7 61.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,7 +3730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 27.94 0)
+			(at 266.7 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,7 +3739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 27.94 0)
+			(at 266.7 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3748,7 +3748,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 170.18 27.94 0)
+			(at 266.7 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3762,7 +3762,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR030")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -3770,7 +3770,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 170.18 142.24 0)
+		(at 266.7 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3778,8 +3778,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0514982-b732-4b09-a08f-452d74e54429")
-		(property "Reference" "#PWR033"
-			(at 170.18 148.59 0)
+		(property "Reference" "#PWR071"
+			(at 266.7 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +3788,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 147.65 0)
+			(at 266.7 185.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3796,7 +3796,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 142.24 0)
+			(at 266.7 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3805,7 +3805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 142.24 0)
+			(at 266.7 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,7 +3814,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 142.24 0)
+			(at 266.7 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3828,7 +3828,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR033")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -3836,7 +3836,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 53.34 53.34 0)
+		(at 149.86 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3844,8 +3844,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce544e45-5c6b-443c-983b-23a2a9521bae")
-		(property "Reference" "#PWR02"
-			(at 53.34 57.15 0)
+		(property "Reference" "#PWR059"
+			(at 149.86 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3854,7 +3854,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 53.34 48.52 0)
+			(at 149.86 86.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3862,7 +3862,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 53.34 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3871,7 +3871,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 53.34 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3880,7 +3880,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 53.34 53.34 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3894,7 +3894,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR02")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3902,7 +3902,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 66.04 0)
+		(at 177.8 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3910,8 +3910,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbf3bed7-1f1d-4605-8343-c17539263383")
-		(property "Reference" "#PWR020"
-			(at 81.28 72.39 0)
+		(property "Reference" "#PWR061"
+			(at 177.8 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3920,7 +3920,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 71.45 0)
+			(at 177.8 109.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +3928,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 66.04 0)
+			(at 177.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3937,7 +3937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 66.04 0)
+			(at 177.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,7 +3946,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 66.04 0)
+			(at 177.8 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3960,7 +3960,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR020")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -3968,7 +3968,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 81.28 20.32 0)
+		(at 177.8 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3976,8 +3976,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd8e8766-392c-4f94-997a-52feec91b2b2")
-		(property "Reference" "#PWR019"
-			(at 81.28 24.13 0)
+		(property "Reference" "#PWR060"
+			(at 177.8 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3986,7 +3986,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 81.28 15.5 0)
+			(at 177.8 53.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +3994,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 20.32 0)
+			(at 177.8 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4003,7 +4003,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 20.32 0)
+			(at 177.8 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4012,7 +4012,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 81.28 20.32 0)
+			(at 177.8 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4026,7 +4026,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR019")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -4034,7 +4034,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 48.26 114.3 0)
+		(at 144.78 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4042,8 +4042,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea32b18f-38b2-410c-a0cf-ac349221c671")
-		(property "Reference" "#PWR014"
-			(at 48.26 118.11 0)
+		(property "Reference" "#PWR057"
+			(at 144.78 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,7 +4052,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 48.26 109.48 0)
+			(at 144.78 147.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4060,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 114.3 0)
+			(at 144.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4069,7 +4069,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 114.3 0)
+			(at 144.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4078,7 +4078,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 48.26 114.3 0)
+			(at 144.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4092,7 +4092,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR014")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4100,7 +4100,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 81.28 147.32 0)
+		(at 177.8 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4108,8 +4108,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6c92baa-03cf-4887-b843-7fd37552fd24")
-		(property "Reference" "#PWR015"
-			(at 81.28 151.13 0)
+		(property "Reference" "#PWR064"
+			(at 177.8 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +4118,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 81.28 142.5 0)
+			(at 177.8 180.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,7 +4126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 147.32 0)
+			(at 177.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 147.32 0)
+			(at 177.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +4144,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 81.28 147.32 0)
+			(at 177.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4158,7 +4158,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR015")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -4166,7 +4166,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 170.18 73.66 0)
+		(at 266.7 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4174,8 +4174,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f746d5ff-09ab-4a9e-8033-1a432dbd1551")
-		(property "Reference" "#PWR031"
-			(at 170.18 80.01 0)
+		(property "Reference" "#PWR069"
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +4184,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 79.07 0)
+			(at 266.7 117.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4192,7 +4192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 73.66 0)
+			(at 266.7 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4201,7 +4201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 73.66 0)
+			(at 266.7 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +4210,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 73.66 0)
+			(at 266.7 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4224,7 +4224,7 @@
 		(instances
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/e2ca8563-7f8f-4307-a405-22fd50d0a3a8"
-					(reference "#PWR031")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)

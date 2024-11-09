@@ -625,16 +625,20 @@
       "RELAY MODULE 1"
     ],
     [
-      "cc5d60ea-7d8f-4552-9be5-36fbeab9448a",
-      "RELAY MODULE 2"
-    ],
-    [
       "e2ca8563-7f8f-4307-a405-22fd50d0a3a8",
       "BUFFER LEVEL SHIFTER"
     ],
     [
       "f29b0885-c387-41e6-bc46-344c35f9f2da",
       "VOLTAGE REGULATION MODULE"
+    ],
+    [
+      "85adba45-2d2b-4a82-9fc2-e7e8ef40e842",
+      "P BMS"
+    ],
+    [
+      "064426f5-f09b-4a93-bd1a-f7bcda935085",
+      "STEPPER MOTOR DRIVER"
     ]
   ],
   "text_variables": {}
