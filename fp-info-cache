@@ -1,4 +1,4 @@
-24955509731006859
+24958972085611224
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2574,7 +2574,7 @@ XL6019 MODULE
 
 0
 4
-1
+4
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -67843,6 +67843,20 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Myfoodprints
+D_DO-41_SOD81_P9.20mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Myfoodprints
+Short_5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -97192,8 +97206,8 @@ INA226 Module
 
 
 0
-0
-0
+8
+8
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

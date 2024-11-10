@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "3f2f6df0-5f90-4393-915c-e4ef7b33cb51")
+	(uuid "7fc22414-a4aa-483d-b089-83645e90eeba")
 	(paper "B")
 	(title_block
 		(title "BATER-IA")
@@ -152,6 +152,231 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "CN5711_2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CN5711"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CN5711_2_1_0"
+				(pin output line
+					(at 1.27 -16.51 90)
+					(length 2.54)
+					(name "TERMAL_PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "CN5711_2_1_1"
+				(rectangle
+					(start -8.89 13.97)
+					(end 8.89 -13.97)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -11.43 -8.89 0)
+					(length 2.54)
+					(name "ISET"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -1.27 -16.51 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 16.51 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 16.51 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 11.43 1.27 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 11.43 -1.27 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 11.43 -8.89 180)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 5.08 0)
+					(length 2.54)
+					(name "CE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1425,6 +1650,26 @@
 					(hide yes)
 				)
 			)
+			(symbol "CN5711_1_0"
+				(pin output line
+					(at 1.27 -16.51 90)
+					(length 2.54)
+					(name "TERMAL_PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(symbol "CN5711_1_1"
 				(rectangle
 					(start -8.89 13.97)
@@ -1456,7 +1701,7 @@
 					)
 				)
 				(pin output line
-					(at 0 -16.51 90)
+					(at -1.27 -16.51 90)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -1982,6 +2227,12 @@
 		(uuid "418ff114-a394-4983-b62c-b6214ea90b18")
 	)
 	(junction
+		(at 341.63 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dc032d0-6b6c-49dd-984c-092d532c4ce1")
+	)
+	(junction
 		(at 110.49 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2024,6 +2275,12 @@
 		(uuid "730eb7bd-a11c-45cb-b030-cce638c3310a")
 	)
 	(junction
+		(at 201.93 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bcc3baa-f270-46c0-8bc3-2e6decdd5682")
+	)
+	(junction
 		(at 320.04 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2046,6 +2303,12 @@
 		(diameter 0)
 		(color 255 0 0 1)
 		(uuid "93605549-2f04-4627-8a62-296d02635026")
+	)
+	(junction
+		(at 71.12 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bf03333-6243-4b7f-942d-29a88970e61f")
 	)
 	(junction
 		(at 52.07 152.4)
@@ -2245,6 +2508,17 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 173.99) (xy 203.2 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "1862cb08-a8e8-4015-b730-89097de3da2d")
+	)
+	(wire
+		(pts
 			(xy 222.25 170.18) (xy 222.25 191.77)
 		)
 		(stroke
@@ -2338,6 +2612,16 @@
 			(color 0 0 0 1)
 		)
 		(uuid "2ab7f465-cffe-4177-9525-a74121069738")
+	)
+	(wire
+		(pts
+			(xy 340.36 173.99) (xy 341.63 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cf526dd-90f0-453f-a86f-e8ac92fde264")
 	)
 	(wire
 		(pts
@@ -2550,6 +2834,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 173.99) (xy 201.93 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "450a344a-d480-47ca-a322-89e2a5cf9a56")
+	)
+	(wire
+		(pts
 			(xy 135.89 52.07) (xy 135.89 71.12)
 		)
 		(stroke
@@ -2580,6 +2874,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "45bb9a03-1ba3-4aab-a67f-80d618770d27")
+	)
+	(wire
+		(pts
+			(xy 341.63 173.99) (xy 342.9 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "45d397a8-c9b7-4bbf-a0b3-df0e19f63119")
 	)
 	(wire
 		(pts
@@ -2709,17 +3014,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "512b723e-9f15-4cb8-93f0-79ecfa0ba8eb")
-	)
-	(wire
-		(pts
-			(xy 71.12 191.77) (xy 49.53 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "54cfe521-e139-4dc1-ae6f-84eb83d858d7")
 	)
 	(wire
 		(pts
@@ -3015,6 +3309,17 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 191.77) (xy 71.12 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "821a61c5-6dde-4a70-b051-fcfeb790157e")
+	)
+	(wire
+		(pts
 			(xy 135.89 39.37) (xy 135.89 52.07)
 		)
 		(stroke
@@ -3044,6 +3349,16 @@
 			(type default)
 		)
 		(uuid "833ef27c-08aa-42ef-944b-0abfadacbf16")
+	)
+	(wire
+		(pts
+			(xy 72.39 173.99) (xy 72.39 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d0f720-7450-46a3-9638-ec6b6bfe0c14")
 	)
 	(wire
 		(pts
@@ -3140,7 +3455,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 173.99) (xy 71.12 191.77)
+			(xy 69.85 173.99) (xy 69.85 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3170,6 +3485,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "99e7eb66-d07f-4838-875e-ea9f274febfa")
+	)
+	(wire
+		(pts
+			(xy 71.12 175.26) (xy 71.12 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "9a28273c-5c4c-41f3-9a0b-d90009983203")
 	)
 	(wire
 		(pts
@@ -3441,6 +3767,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 175.26) (xy 71.12 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c646a3aa-783f-4614-ad9f-9bbda0810799")
+	)
+	(wire
+		(pts
 			(xy 283.21 222.25) (xy 283.21 114.3)
 		)
 		(stroke
@@ -3615,6 +3951,17 @@
 			(color 194 0 0 1)
 		)
 		(uuid "d9318493-26a8-446e-9cf5-7e5ebfd23b24")
+	)
+	(wire
+		(pts
+			(xy 71.12 175.26) (xy 69.85 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d976394a-20c0-4900-9452-49d7aa25822b")
 	)
 	(wire
 		(pts
@@ -3820,6 +4167,16 @@
 			(type default)
 		)
 		(uuid "f0ec4069-cfd2-4bd0-a0e4-eda736d235d5")
+	)
+	(wire
+		(pts
+			(xy 71.12 175.26) (xy 69.85 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d3f00b-4e73-48bf-b593-5c4954bcd2b5")
 	)
 	(wire
 		(pts
@@ -4032,7 +4389,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "INA226"
 			(at 142.24 22.098 0)
 			(effects
 				(font
@@ -4042,7 +4399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Universal_Modules:INA226 Module"
 			(at 138.43 11.43 0)
 			(effects
 				(font
@@ -4331,8 +4688,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26d5ee60-9399-457f-8eb6-04379eb39743")
+		(uuid "35c377e5-1959-4e71-943f-2d514a76e67b")
 		(property "Reference" "CN3"
 			(at 343.8241 173.99 0)
 			(effects
@@ -4342,8 +4698,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 343.8241 175.26 0)
+		(property "Value" "CN5711"
+			(at 344.17 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4351,7 +4707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias"
 			(at 341.63 157.48 0)
 			(effects
 				(font
@@ -4360,7 +4716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.alldatasheet.es/datasheet-pdf/pdf/1133251/CONSONANCE/CN5710.html"
 			(at 341.63 157.48 0)
 			(effects
 				(font
@@ -4379,28 +4735,31 @@
 			)
 		)
 		(pin "5"
-			(uuid "5eee2146-6415-47be-b5c2-1e9dec7ca266")
+			(uuid "c4e27e41-139e-4b97-ab4e-9919f1820381")
 		)
 		(pin "6"
-			(uuid "4c63b6f7-d879-4eba-9a8f-0e2fa924c6e1")
+			(uuid "f12a8380-afd8-4653-a141-4fb65b065d72")
 		)
 		(pin "7"
-			(uuid "f021b33d-772a-4b11-840f-4f0786a2386b")
+			(uuid "ccee27ed-0134-4a09-9313-7b5abb5aa386")
 		)
 		(pin "1"
-			(uuid "0629f400-7e47-499a-9b92-de626a4cc24f")
+			(uuid "efc60c4f-c139-4c97-a97c-1567d6e1301b")
 		)
 		(pin "2"
-			(uuid "d164b23d-2195-462f-8a46-22fc22d6a8c9")
+			(uuid "e558758f-4063-4801-bf15-e881c38bc6d4")
 		)
 		(pin "3"
-			(uuid "cddfd467-75cd-4ef5-b393-0536564fd3bd")
+			(uuid "5e3c002c-a390-41fa-b8db-32131ba6c747")
 		)
 		(pin "4"
-			(uuid "6c1ab6e1-d93f-4402-bea8-180ed6966e13")
+			(uuid "1749c40a-0741-4493-8c2e-1d0ff097f59b")
 		)
 		(pin "8"
-			(uuid "c7212aff-e745-4944-a09b-f86e9bc37991")
+			(uuid "cb80e5b8-0be2-47f9-8514-48345b26de7b")
+		)
+		(pin "9"
+			(uuid "9dbecc94-6bf3-4cf0-94a0-a06555f88f61")
 		)
 		(instances
 			(project "BATER-IA_PCB"
@@ -4429,13 +4788,12 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "CN5711_3"
 			(at 346.71 233.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
@@ -4512,7 +4870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 107.95 151.13 0)
 			(effects
 				(font
@@ -4796,13 +5154,12 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "CN5711_2"
 			(at 208.28 233.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
@@ -4848,6 +5205,96 @@
 			(project "BATER-IA_PCB"
 				(path "/1847115b-9533-4b0b-b950-dd42993eb282/85adba45-2d2b-4a82-9fc2-e7e8ef40e842"
 					(reference "J26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MySymbols:CN5711")
+		(at 201.93 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64e4bbce-c4c5-4437-9776-037b2bd4924f")
+		(property "Reference" "CN2"
+			(at 204.1241 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CN5711"
+			(at 204.47 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias"
+			(at 201.93 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.alldatasheet.es/datasheet-pdf/pdf/1133251/CONSONANCE/CN5710.html"
+			(at 201.93 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "b3478c34-30ff-4dbc-b839-981e11f425e4")
+		)
+		(pin "6"
+			(uuid "da41f74f-3081-4017-9954-f1d4312335f9")
+		)
+		(pin "7"
+			(uuid "517e0843-f826-4bda-8a27-15e16ef66c16")
+		)
+		(pin "1"
+			(uuid "1cb04f0c-6dec-4826-b0bd-64daa5b541ff")
+		)
+		(pin "2"
+			(uuid "4c7406f4-6c1a-42b5-81c1-b2e1abc7bb99")
+		)
+		(pin "3"
+			(uuid "bbfd25cc-bb29-424a-90e7-6949148c938c")
+		)
+		(pin "4"
+			(uuid "ea3fbc61-09e6-429d-99a7-3b43c4f93414")
+		)
+		(pin "8"
+			(uuid "1f725211-6143-4863-8bb3-06424000252f")
+		)
+		(pin "9"
+			(uuid "38beffed-4a86-4626-b9d2-8b9d56435032")
+		)
+		(instances
+			(project "BATER-IA_PCB"
+				(path "/1847115b-9533-4b0b-b950-dd42993eb282/85adba45-2d2b-4a82-9fc2-e7e8ef40e842"
+					(reference "CN2")
 					(unit 1)
 				)
 			)
@@ -5056,6 +5503,7 @@
 		)
 	)
 	(symbol
+		(lib_name "CN5711_2")
 		(lib_id "MySymbols:CN5711")
 		(at 71.12 157.48 0)
 		(unit 1)
@@ -5063,7 +5511,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "79531663-49fa-4d10-ac92-db7aa8e83206")
 		(property "Reference" "CN1"
 			(at 73.3141 173.99 0)
@@ -5074,8 +5521,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 73.3141 175.26 0)
+		(property "Value" "CN5711"
+			(at 73.66 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5083,7 +5530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias"
 			(at 71.12 157.48 0)
 			(effects
 				(font
@@ -5092,7 +5539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.alldatasheet.es/datasheet-pdf/pdf/1133251/CONSONANCE/CN5710.html"
 			(at 71.12 157.48 0)
 			(effects
 				(font
@@ -5133,6 +5580,9 @@
 		)
 		(pin "8"
 			(uuid "eb22d03e-009f-4e29-8beb-7cea65c6be3b")
+		)
+		(pin "9"
+			(uuid "f223729a-a24b-435e-956b-8e60ca558917")
 		)
 		(instances
 			(project ""
@@ -5280,94 +5730,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MySymbols:CN5711")
-		(at 201.93 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91419131-f325-4a6a-ad13-6f0b9278ee98")
-		(property "Reference" "CN2"
-			(at 204.1241 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 204.1241 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 201.93 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "9e59c7ce-a69d-43bb-99f7-0077d9e301b5")
-		)
-		(pin "6"
-			(uuid "35a04862-696a-43a2-bdb4-23bb7b56abc0")
-		)
-		(pin "7"
-			(uuid "be0b5da3-56db-467f-bca5-bbbe7683cb7c")
-		)
-		(pin "1"
-			(uuid "6724acb5-0628-42a4-bdf5-c1d9b7b10d7f")
-		)
-		(pin "2"
-			(uuid "c25437a0-f0fd-4a5b-b723-3e96373a4e88")
-		)
-		(pin "3"
-			(uuid "f4d37358-d104-4482-a153-a6494102d000")
-		)
-		(pin "4"
-			(uuid "fd778f93-c417-4e83-a32e-4902242db1cd")
-		)
-		(pin "8"
-			(uuid "c663a997-00c8-4bc4-bf36-954dcc6c3046")
-		)
-		(instances
-			(project "BATER-IA_PCB"
-				(path "/1847115b-9533-4b0b-b950-dd42993eb282/85adba45-2d2b-4a82-9fc2-e7e8ef40e842"
-					(reference "CN2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N5819")
 		(at 381 156.21 0)
 		(unit 1)
@@ -5393,7 +5755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 386.08 151.13 0)
 			(effects
 				(font
@@ -5553,7 +5915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
+		(property "Footprint" "Myfoodprints:Short_5.08mm_Drill1.3mm"
 			(at 78.74 116.078 90)
 			(effects
 				(font
@@ -5962,13 +6324,12 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "CN5711_1"
 			(at 73.66 233.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
@@ -6283,16 +6644,16 @@
 			(uuid "eaf54c5c-25d9-492a-a904-e986ee7c173e")
 		)
 		(pin "4"
-			(uuid "9395b1e0-a6ab-499a-9fc8-36ada229d8d8")
+			(uuid "9395b1e0-a6ab-499a-9fc8-36ada229d8d9")
 		)
 		(pin "2"
 			(uuid "8d89aa8f-ff28-4d85-8e32-8bc650bf7c0e")
 		)
 		(pin "5"
-			(uuid "575e614c-a09b-47b6-a674-6fd18a784c4a")
+			(uuid "575e614c-a09b-47b6-a674-6fd18a784c4b")
 		)
 		(pin "6"
-			(uuid "173179a9-8c70-4e08-84d6-1443068e9c43")
+			(uuid "173179a9-8c70-4e08-84d6-1443068e9c44")
 		)
 		(instances
 			(project "BATER-IA_PCB"
@@ -6465,7 +6826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
+		(property "Footprint" "Myfoodprints:Short_5.08mm_Drill1.3mm"
 			(at 210.82 116.078 90)
 			(effects
 				(font
@@ -6606,7 +6967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 241.3 151.13 0)
 			(effects
 				(font
@@ -6802,16 +7163,16 @@
 			(uuid "9f272319-50aa-47e8-b5c2-a9bcff7aefcf")
 		)
 		(pin "4"
-			(uuid "9395b1e0-a6ab-499a-9fc8-36ada229d8d8")
+			(uuid "9395b1e0-a6ab-499a-9fc8-36ada229d8da")
 		)
 		(pin "2"
 			(uuid "db095c41-3d57-4d1a-b45d-159af82ad71a")
 		)
 		(pin "5"
-			(uuid "575e614c-a09b-47b6-a674-6fd18a784c4a")
+			(uuid "575e614c-a09b-47b6-a674-6fd18a784c4c")
 		)
 		(pin "6"
-			(uuid "173179a9-8c70-4e08-84d6-1443068e9c43")
+			(uuid "173179a9-8c70-4e08-84d6-1443068e9c45")
 		)
 		(instances
 			(project "BATER-IA_PCB"

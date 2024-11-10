@@ -5378,7 +5378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 81.28 58.42 0)
 			(effects
 				(font
@@ -5677,7 +5677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 218.44 160.02 0)
 			(effects
 				(font
@@ -6969,7 +6969,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 81.28 109.22 0)
 			(effects
 				(font
@@ -7488,7 +7488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 365.76 124.46 0)
 			(effects
 				(font
@@ -7653,7 +7653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 233.68 73.66 0)
 			(effects
 				(font
@@ -9312,7 +9312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 215.9 109.22 0)
 			(effects
 				(font
@@ -9544,7 +9544,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 81.28 160.02 0)
 			(effects
 				(font
@@ -9845,7 +9845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 365.76 73.66 0)
 			(effects
 				(font
@@ -10235,7 +10235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 368.3 175.26 0)
 			(effects
 				(font
@@ -10966,7 +10966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 99.06 73.66 0)
 			(effects
 				(font
@@ -11131,7 +11131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 99.06 175.26 0)
 			(effects
 				(font
@@ -11436,7 +11436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 350.52 160.02 0)
 			(effects
 				(font
@@ -12371,7 +12371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 236.22 175.26 0)
 			(effects
 				(font
@@ -12536,7 +12536,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 215.9 58.42 0)
 			(effects
 				(font
@@ -12975,7 +12975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 347.98 58.42 0)
 			(effects
 				(font
@@ -13269,7 +13269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 233.68 124.46 0)
 			(effects
 				(font
@@ -13504,7 +13504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-92-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 99.06 124.46 0)
 			(effects
 				(font
@@ -14100,7 +14100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DO-41"
+		(property "Footprint" "Myfoodprints:D_DO-41_SOD81_P9.20mm_Horizontal"
 			(at 347.98 109.22 0)
 			(effects
 				(font
