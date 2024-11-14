@@ -2205,6 +2205,26 @@
 		)
 		(uuid "feabce63-6cc3-484f-982c-eef93a24cd03")
 	)
+	(text "np\n"
+		(exclude_from_sim no)
+		(at 298.704 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b307e515-a8e7-4161-b53c-66b731bca759")
+	)
+	(text "encadenar al de 5v\n"
+		(exclude_from_sim no)
+		(at 224.536 39.624 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8810ee8-a086-4630-9f73-98efff7106c1")
+	)
 	(hierarchical_label "12VDC"
 		(shape input)
 		(at 195.58 52.07 180)
