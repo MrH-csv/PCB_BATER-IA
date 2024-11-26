@@ -4220,6 +4220,16 @@
 		)
 		(uuid "feb5f30f-5ee3-466e-8482-0dc206a469e7")
 	)
+	(text "Foodprint inverted"
+		(exclude_from_sim no)
+		(at 174.498 26.416 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ee2880d1-7c3f-43c4-b447-c92408d046b1")
+	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 176.53 45.72 0)
